@@ -5,7 +5,7 @@
 	"main": "main.js",
 	"dependencies": {
 		"xlsx": "*",
-		"electron": "^9.0.5"
+		"electron": "^32.2.3"
 	},
 	"scripts": {
 		"start": "electron ."
